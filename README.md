@@ -4,7 +4,6 @@
 - 🔭 Hoje trabalho na Serasa Experian no setor de antifraude, mas o meu desejo é ir para um cargo que eu consigo aprender muito sobre programação
 - 🌱 Estudando Ciências da Computação 
 - 💬 Se quiser conversar comigo ou me dar dicas para um iniciante nessa área, contate-me : dejotacarvalho2002@gmail.com
-- 📫 How to reach me: ...
 - 😄 Pronouns: ele/dele
 
 <div align="center">
